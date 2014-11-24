@@ -1,0 +1,6 @@
+host: localhost
+port: 9301
+authentication: digest
+username: admin
+password: secret
+filename: sample.xqy
